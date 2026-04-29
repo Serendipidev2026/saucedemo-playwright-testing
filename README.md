@@ -1,8 +1,8 @@
-# 🧪 Test technique QA junior — “Checkout jusqu’à confirmation” (SauceDemo)
+# 🧪 Test technique — “Checkout jusqu’à confirmation” (SauceDemo)
 
 ## 🎯 Objectif
 
-Évaluer ta capacité à tester un parcours utilisateur complet sur un site e-commerce :
+Tester un parcours utilisateur complet sur un site e-commerce :
 
 connexion → ajout de produits → panier → checkout → **confirmation de commande** (“Thank you for your order!”).
 
